@@ -1,4 +1,12 @@
 About this file
 ======================
 
-##simple steps to handle git
+##Step 1
+
+```
+$ cd ~/localgitfile
+$ touch README.md
+$ git init
+$ git add .
+$ git commit -m "first commit"
+```
