@@ -22,3 +22,9 @@ $ git add .
 ```
 $ git commit -m "first commit"
 ```
+
+##Step 4 push your change to github
+
+```
+$ git push origin master
+```
